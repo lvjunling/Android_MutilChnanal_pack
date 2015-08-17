@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/lvjunling/dev/GradleMultiChannelPack/app/src/androidTest/res"/><source path="/Users/lvjunling/dev/GradleMultiChannelPack/app/build/generated/res/rs/androidTest/_360/debug"/><source path="/Users/lvjunling/dev/GradleMultiChannelPack/app/build/generated/res/resValues/androidTest/_360/debug"/></dataSet><dataSet config="androidTest_360"><source path="/Users/lvjunling/dev/GradleMultiChannelPack/app/src/androidTest_360/res"/></dataSet><mergedItems/></merger>

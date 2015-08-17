@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="画面都在苏醒，you are allensu"
+        android:textSize="20sp" />
+</LinearLayout><!-- From: file:/Users/lvjunling/dev/GradleMultiChannelPack/app/src/main/res/layout/welcome.xml -->
